@@ -3,8 +3,6 @@ __pycache__
 .idea
 shell.jsp
 ascii*.jar
-Exploit.java
-Exploit.class
 payload*.jar
 test.py
 tmp.jar
