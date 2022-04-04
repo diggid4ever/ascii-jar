@@ -6,3 +6,5 @@ ascii*.jar
 Exploit.java
 Exploit.class
 payload*.jar
+test.py
+tmp.jar
