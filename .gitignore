@@ -1,7 +1,6 @@
 __pycache__
 .DS_Store
 .idea
-shell.jsp
 ascii*.jar
 payload*.jar
 test.py
